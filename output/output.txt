@@ -1,0 +1,1531 @@
+====================Logistic Regression====================
+Logistic Regression with c = 0.05 accuracy is 0.88436
+Logistic Regression with c = 0.25 accuracy is 0.87988
+Logistic Regression with c = 0.5 accuracy is 0.87684
+Logistic Regression with c = 1 accuracy is 0.87404
+====================Simple RNN====================
+Epoch 1 Batch 0 Accuracy 37.5000. Loss 0.0127
+Epoch 1 Batch 100 Accuracy 49.7679. Loss 0.0109
+Epoch 1 Batch 200 Accuracy 50.3654. Loss 0.0109
+Epoch 1 Batch 300 Accuracy 50.3426. Loss 0.0108
+------------
+Test : Model RNN, Epoch 1 Accuracy 49.9544
+Epoch time : 0mins 45secs
+============
+Epoch 2 Batch 0 Accuracy 40.6250. Loss 0.0108
+Epoch 2 Batch 100 Accuracy 48.9790. Loss 0.0108
+Epoch 2 Batch 200 Accuracy 48.8495. Loss 0.0108
+Epoch 2 Batch 300 Accuracy 49.2577. Loss 0.0108
+------------
+Test : Model RNN, Epoch 2 Accuracy 49.9536
+Epoch time : 0mins 45secs
+============
+Epoch 3 Batch 0 Accuracy 50.0000. Loss 0.0108
+Epoch 3 Batch 100 Accuracy 49.2420. Loss 0.0108
+Epoch 3 Batch 200 Accuracy 49.5569. Loss 0.0108
+Epoch 3 Batch 300 Accuracy 49.7301. Loss 0.0108
+------------
+Test : Model RNN, Epoch 3 Accuracy 50.0296
+Epoch time : 0mins 45secs
+============
+Epoch 4 Batch 0 Accuracy 48.4375. Loss 0.0108
+Epoch 4 Batch 100 Accuracy 50.0464. Loss 0.0108
+Epoch 4 Batch 200 Accuracy 49.3004. Loss 0.0108
+Epoch 4 Batch 300 Accuracy 49.0449. Loss 0.0108
+------------
+Test : Model RNN, Epoch 4 Accuracy 50.0160
+Epoch time : 0mins 45secs
+============
+Epoch 5 Batch 0 Accuracy 53.1250. Loss 0.0108
+Epoch 5 Batch 100 Accuracy 50.2785. Loss 0.0108
+Epoch 5 Batch 200 Accuracy 50.1166. Loss 0.0108
+Epoch 5 Batch 300 Accuracy 50.0831. Loss 0.0108
+------------
+Test : Model RNN, Epoch 5 Accuracy 49.9664
+Epoch time : 0mins 45secs
+============
+Epoch 6 Batch 0 Accuracy 50.0000. Loss 0.0108
+Epoch 6 Batch 100 Accuracy 50.6188. Loss 0.0108
+Epoch 6 Batch 200 Accuracy 50.2177. Loss 0.0108
+Epoch 6 Batch 300 Accuracy 50.0415. Loss 0.0108
+------------
+Test : Model RNN, Epoch 6 Accuracy 49.9576
+Epoch time : 0mins 45secs
+============
+Epoch 7 Batch 0 Accuracy 43.7500. Loss 0.0109
+Epoch 7 Batch 100 Accuracy 49.5978. Loss 0.0108
+Epoch 7 Batch 200 Accuracy 50.0622. Loss 0.0108
+Epoch 7 Batch 300 Accuracy 50.0208. Loss 0.0108
+------------
+Test : Model RNN, Epoch 7 Accuracy 49.9632
+Epoch time : 0mins 45secs
+============
+Epoch 8 Batch 0 Accuracy 48.4375. Loss 0.0109
+Epoch 8 Batch 100 Accuracy 49.6751. Loss 0.0108
+Epoch 8 Batch 200 Accuracy 49.6346. Loss 0.0108
+Epoch 8 Batch 300 Accuracy 49.8702. Loss 0.0108
+------------
+Test : Model RNN, Epoch 8 Accuracy 50.0000
+Epoch time : 0mins 45secs
+============
+Epoch 9 Batch 0 Accuracy 50.0000. Loss 0.0109
+Epoch 9 Batch 100 Accuracy 50.9746. Loss 0.0108
+Epoch 9 Batch 200 Accuracy 50.9173. Loss 0.0108
+Epoch 9 Batch 300 Accuracy 50.7371. Loss 0.0108
+------------
+Test : Model RNN, Epoch 9 Accuracy 50.0160
+Epoch time : 0mins 45secs
+============
+Epoch 10 Batch 0 Accuracy 48.4375. Loss 0.0108
+Epoch 10 Batch 100 Accuracy 50.3403. Loss 0.0108
+Epoch 10 Batch 200 Accuracy 50.3498. Loss 0.0108
+Epoch 10 Batch 300 Accuracy 50.2751. Loss 0.0108
+------------
+Test : Model RNN, Epoch 10 Accuracy 49.9680
+Epoch time : 0mins 45secs
+============
+Epoch 11 Batch 0 Accuracy 39.0625. Loss 0.0109
+Epoch 11 Batch 100 Accuracy 49.5978. Loss 0.0108
+Epoch 11 Batch 200 Accuracy 49.7512. Loss 0.0108
+Epoch 11 Batch 300 Accuracy 49.9740. Loss 0.0108
+------------
+Test : Model RNN, Epoch 11 Accuracy 50.0120
+Epoch time : 0mins 45secs
+============
+Epoch 12 Batch 0 Accuracy 57.8125. Loss 0.0108
+Epoch 12 Batch 100 Accuracy 50.8354. Loss 0.0108
+Epoch 12 Batch 200 Accuracy 50.0155. Loss 0.0108
+Epoch 12 Batch 300 Accuracy 49.9377. Loss 0.0108
+------------
+Test : Model RNN, Epoch 12 Accuracy 50.0344
+Epoch time : 0mins 45secs
+============
+Epoch 13 Batch 0 Accuracy 46.8750. Loss 0.0108
+Epoch 13 Batch 100 Accuracy 50.4332. Loss 0.0108
+Epoch 13 Batch 200 Accuracy 50.3576. Loss 0.0108
+Epoch 13 Batch 300 Accuracy 50.1505. Loss 0.0108
+------------
+Test : Model RNN, Epoch 13 Accuracy 50.0136
+Epoch time : 0mins 45secs
+============
+Epoch 14 Batch 0 Accuracy 56.2500. Loss 0.0108
+Epoch 14 Batch 100 Accuracy 50.4796. Loss 0.0108
+Epoch 14 Batch 200 Accuracy 50.0389. Loss 0.0108
+Epoch 14 Batch 300 Accuracy 50.1505. Loss 0.0108
+------------
+Test : Model RNN, Epoch 14 Accuracy 50.0240
+Epoch time : 0mins 45secs
+============
+Epoch 15 Batch 0 Accuracy 43.7500. Loss 0.0110
+Epoch 15 Batch 100 Accuracy 49.1646. Loss 0.0108
+Epoch 15 Batch 200 Accuracy 49.8912. Loss 0.0108
+Epoch 15 Batch 300 Accuracy 49.3511. Loss 0.0108
+------------
+Test : Model RNN, Epoch 15 Accuracy 49.9576
+Epoch time : 0mins 45secs
+============
+Epoch 16 Batch 0 Accuracy 50.0000. Loss 0.0108
+Epoch 16 Batch 100 Accuracy 50.5879. Loss 0.0108
+Epoch 16 Batch 200 Accuracy 50.4353. Loss 0.0108
+Epoch 16 Batch 300 Accuracy 50.2751. Loss 0.0108
+------------
+Test : Model RNN, Epoch 16 Accuracy 49.9720
+Epoch time : 0mins 45secs
+============
+Epoch 17 Batch 0 Accuracy 50.0000. Loss 0.0108
+Epoch 17 Batch 100 Accuracy 49.2265. Loss 0.0108
+Epoch 17 Batch 200 Accuracy 50.3265. Loss 0.0108
+Epoch 17 Batch 300 Accuracy 50.2855. Loss 0.0108
+------------
+Test : Model RNN, Epoch 17 Accuracy 49.9784
+Epoch time : 0mins 45secs
+============
+Epoch 18 Batch 0 Accuracy 40.6250. Loss 0.0108
+Epoch 18 Batch 100 Accuracy 49.9072. Loss 0.0108
+Epoch 18 Batch 200 Accuracy 49.2848. Loss 0.0108
+Epoch 18 Batch 300 Accuracy 49.4498. Loss 0.0108
+------------
+Test : Model RNN, Epoch 18 Accuracy 50.0136
+Epoch time : 0mins 45secs
+============
+Epoch 19 Batch 0 Accuracy 43.7500. Loss 0.0109
+Epoch 19 Batch 100 Accuracy 49.8762. Loss 0.0108
+Epoch 19 Batch 200 Accuracy 49.6968. Loss 0.0108
+Epoch 19 Batch 300 Accuracy 50.0104. Loss 0.0108
+------------
+Test : Model RNN, Epoch 19 Accuracy 50.0024
+Epoch time : 0mins 45secs
+============
+Epoch 20 Batch 0 Accuracy 51.5625. Loss 0.0108
+Epoch 20 Batch 100 Accuracy 49.8453. Loss 0.0108
+Epoch 20 Batch 200 Accuracy 50.0389. Loss 0.0108
+Epoch 20 Batch 300 Accuracy 50.0779. Loss 0.0108
+------------
+Test : Model RNN, Epoch 20 Accuracy 49.9552
+Epoch time : 0mins 45secs
+============
+Epoch 21 Batch 0 Accuracy 43.7500. Loss 0.0109
+Epoch 21 Batch 100 Accuracy 50.3868. Loss 0.0108
+Epoch 21 Batch 200 Accuracy 50.2410. Loss 0.0108
+Epoch 21 Batch 300 Accuracy 50.4257. Loss 0.0108
+------------
+Test : Model RNN, Epoch 21 Accuracy 50.0168
+Epoch time : 0mins 46secs
+============
+Epoch 22 Batch 0 Accuracy 48.4375. Loss 0.0108
+Epoch 22 Batch 100 Accuracy 51.0210. Loss 0.0108
+Epoch 22 Batch 200 Accuracy 50.6141. Loss 0.0108
+Epoch 22 Batch 300 Accuracy 50.2128. Loss 0.0108
+------------
+Test : Model RNN, Epoch 22 Accuracy 49.9728
+Epoch time : 0mins 45secs
+============
+Epoch 23 Batch 0 Accuracy 53.1250. Loss 0.0108
+Epoch 23 Batch 100 Accuracy 50.5879. Loss 0.0108
+Epoch 23 Batch 200 Accuracy 50.6996. Loss 0.0108
+Epoch 23 Batch 300 Accuracy 50.6333. Loss 0.0108
+------------
+Test : Model RNN, Epoch 23 Accuracy 50.0120
+Epoch time : 0mins 46secs
+============
+Epoch 24 Batch 0 Accuracy 43.7500. Loss 0.0109
+Epoch 24 Batch 100 Accuracy 49.6597. Loss 0.0108
+Epoch 24 Batch 200 Accuracy 49.7357. Loss 0.0108
+Epoch 24 Batch 300 Accuracy 49.7093. Loss 0.0108
+------------
+Test : Model RNN, Epoch 24 Accuracy 50.0112
+Epoch time : 0mins 46secs
+============
+Epoch 25 Batch 0 Accuracy 57.8125. Loss 0.0108
+Epoch 25 Batch 100 Accuracy 50.1702. Loss 0.0108
+Epoch 25 Batch 200 Accuracy 50.6685. Loss 0.0108
+Epoch 25 Batch 300 Accuracy 50.5191. Loss 0.0108
+------------
+Test : Model RNN, Epoch 25 Accuracy 49.9592
+Epoch time : 0mins 45secs
+============
+Epoch 26 Batch 0 Accuracy 54.6875. Loss 0.0108
+Epoch 26 Batch 100 Accuracy 49.0873. Loss 0.0108
+Epoch 26 Batch 200 Accuracy 49.6424. Loss 0.0108
+Epoch 26 Batch 300 Accuracy 49.9948. Loss 0.0108
+------------
+Test : Model RNN, Epoch 26 Accuracy 49.9576
+Epoch time : 0mins 45secs
+============
+Epoch 27 Batch 0 Accuracy 43.7500. Loss 0.0109
+Epoch 27 Batch 100 Accuracy 49.5050. Loss 0.0108
+Epoch 27 Batch 200 Accuracy 49.7512. Loss 0.0108
+Epoch 27 Batch 300 Accuracy 49.9377. Loss 0.0108
+------------
+Test : Model RNN, Epoch 27 Accuracy 49.9600
+Epoch time : 0mins 45secs
+============
+Epoch 28 Batch 0 Accuracy 40.6250. Loss 0.0109
+Epoch 28 Batch 100 Accuracy 49.7215. Loss 0.0108
+Epoch 28 Batch 200 Accuracy 49.8445. Loss 0.0108
+Epoch 28 Batch 300 Accuracy 49.7820. Loss 0.0108
+------------
+Test : Model RNN, Epoch 28 Accuracy 50.0000
+Epoch time : 0mins 45secs
+============
+Epoch 29 Batch 0 Accuracy 39.0625. Loss 0.0109
+Epoch 29 Batch 100 Accuracy 49.6751. Loss 0.0108
+Epoch 29 Batch 200 Accuracy 49.4947. Loss 0.0108
+Epoch 29 Batch 300 Accuracy 49.6937. Loss 0.0108
+------------
+Test : Model RNN, Epoch 29 Accuracy 50.0104
+Epoch time : 0mins 45secs
+============
+Epoch 30 Batch 0 Accuracy 39.0625. Loss 0.0108
+Epoch 30 Batch 100 Accuracy 49.8608. Loss 0.0108
+Epoch 30 Batch 200 Accuracy 50.0389. Loss 0.0108
+Epoch 30 Batch 300 Accuracy 50.0052. Loss 0.0108
+------------
+Test : Model RNN, Epoch 30 Accuracy 50.0144
+Epoch time : 0mins 45secs
+============
+====================LSTM====================
+Layer 2 Epoch 1 Batch 0 Accuracy 56.2500. Loss 0.0107
+Layer 2 Epoch 1 Batch 100 Accuracy 48.8861. Loss 0.0111
+Layer 2 Epoch 1 Batch 200 Accuracy 49.9223. Loss 0.0110
+Layer 2 Epoch 1 Batch 300 Accuracy 50.1765. Loss 0.0110
+------------
+Test : Lay 2, Model LSTM, Epoch 1 Accuracy 50.0160
+Epoch time : 1mins 5secs
+============
+Layer 2 Epoch 2 Batch 0 Accuracy 50.0000. Loss 0.0111
+Layer 2 Epoch 2 Batch 100 Accuracy 50.6807. Loss 0.0109
+Layer 2 Epoch 2 Batch 200 Accuracy 50.6374. Loss 0.0109
+Layer 2 Epoch 2 Batch 300 Accuracy 50.4724. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 2 Accuracy 49.9768
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 3 Batch 0 Accuracy 43.7500. Loss 0.0109
+Layer 2 Epoch 3 Batch 100 Accuracy 49.3967. Loss 0.0109
+Layer 2 Epoch 3 Batch 200 Accuracy 49.6502. Loss 0.0108
+Layer 2 Epoch 3 Batch 300 Accuracy 49.8806. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 3 Accuracy 50.0392
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 4 Batch 0 Accuracy 50.0000. Loss 0.0109
+Layer 2 Epoch 4 Batch 100 Accuracy 49.3502. Loss 0.0109
+Layer 2 Epoch 4 Batch 200 Accuracy 49.2149. Loss 0.0109
+Layer 2 Epoch 4 Batch 300 Accuracy 49.3252. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 4 Accuracy 49.9872
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 5 Batch 0 Accuracy 42.1875. Loss 0.0109
+Layer 2 Epoch 5 Batch 100 Accuracy 49.6751. Loss 0.0108
+Layer 2 Epoch 5 Batch 200 Accuracy 49.9767. Loss 0.0108
+Layer 2 Epoch 5 Batch 300 Accuracy 50.3374. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 5 Accuracy 49.9968
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 6 Batch 0 Accuracy 50.0000. Loss 0.0109
+Layer 2 Epoch 6 Batch 100 Accuracy 49.8453. Loss 0.0109
+Layer 2 Epoch 6 Batch 200 Accuracy 50.2332. Loss 0.0108
+Layer 2 Epoch 6 Batch 300 Accuracy 50.2440. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 6 Accuracy 49.9976
+Epoch time : 1mins 5secs
+============
+Layer 2 Epoch 7 Batch 0 Accuracy 48.4375. Loss 0.0108
+Layer 2 Epoch 7 Batch 100 Accuracy 50.9127. Loss 0.0109
+Layer 2 Epoch 7 Batch 200 Accuracy 50.4275. Loss 0.0109
+Layer 2 Epoch 7 Batch 300 Accuracy 50.2803. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 7 Accuracy 50.4212
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 8 Batch 0 Accuracy 46.8750. Loss 0.0109
+Layer 2 Epoch 8 Batch 100 Accuracy 51.2067. Loss 0.0108
+Layer 2 Epoch 8 Batch 200 Accuracy 50.2488. Loss 0.0108
+Layer 2 Epoch 8 Batch 300 Accuracy 50.3841. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 8 Accuracy 50.0136
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 9 Batch 0 Accuracy 53.1250. Loss 0.0108
+Layer 2 Epoch 9 Batch 100 Accuracy 50.6188. Loss 0.0108
+Layer 2 Epoch 9 Batch 200 Accuracy 50.2254. Loss 0.0108
+Layer 2 Epoch 9 Batch 300 Accuracy 50.1973. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 9 Accuracy 50.0024
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 10 Batch 0 Accuracy 57.8125. Loss 0.0109
+Layer 2 Epoch 10 Batch 100 Accuracy 49.4585. Loss 0.0109
+Layer 2 Epoch 10 Batch 200 Accuracy 49.8290. Loss 0.0108
+Layer 2 Epoch 10 Batch 300 Accuracy 49.8391. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 10 Accuracy 49.9952
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 11 Batch 0 Accuracy 53.1250. Loss 0.0108
+Layer 2 Epoch 11 Batch 100 Accuracy 51.2531. Loss 0.0108
+Layer 2 Epoch 11 Batch 200 Accuracy 50.5908. Loss 0.0108
+Layer 2 Epoch 11 Batch 300 Accuracy 50.3530. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 11 Accuracy 50.0000
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 12 Batch 0 Accuracy 57.8125. Loss 0.0107
+Layer 2 Epoch 12 Batch 100 Accuracy 50.2630. Loss 0.0108
+Layer 2 Epoch 12 Batch 200 Accuracy 50.4120. Loss 0.0108
+Layer 2 Epoch 12 Batch 300 Accuracy 50.6800. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 12 Accuracy 50.0072
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 13 Batch 0 Accuracy 40.6250. Loss 0.0110
+Layer 2 Epoch 13 Batch 100 Accuracy 49.2884. Loss 0.0108
+Layer 2 Epoch 13 Batch 200 Accuracy 49.2460. Loss 0.0108
+Layer 2 Epoch 13 Batch 300 Accuracy 49.6937. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 13 Accuracy 64.7131
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 14 Batch 0 Accuracy 54.6875. Loss 0.0107
+Layer 2 Epoch 14 Batch 100 Accuracy 50.9127. Loss 0.0108
+Layer 2 Epoch 14 Batch 200 Accuracy 50.4042. Loss 0.0108
+Layer 2 Epoch 14 Batch 300 Accuracy 51.1057. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 14 Accuracy 49.9976
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 15 Batch 0 Accuracy 56.2500. Loss 0.0105
+Layer 2 Epoch 15 Batch 100 Accuracy 55.7395. Loss 0.0106
+Layer 2 Epoch 15 Batch 200 Accuracy 60.0591. Loss 0.0104
+Layer 2 Epoch 15 Batch 300 Accuracy 59.6813. Loss 0.0104
+------------
+Test : Lay 2, Model LSTM, Epoch 15 Accuracy 49.9696
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 16 Batch 0 Accuracy 56.2500. Loss 0.0102
+Layer 2 Epoch 16 Batch 100 Accuracy 70.5446. Loss 0.0094
+Layer 2 Epoch 16 Batch 200 Accuracy 74.2693. Loss 0.0088
+Layer 2 Epoch 16 Batch 300 Accuracy 71.2832. Loss 0.0093
+------------
+Test : Lay 2, Model LSTM, Epoch 16 Accuracy 50.0535
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 17 Batch 0 Accuracy 56.2500. Loss 0.0107
+Layer 2 Epoch 17 Batch 100 Accuracy 49.6442. Loss 0.0109
+Layer 2 Epoch 17 Batch 200 Accuracy 50.5442. Loss 0.0109
+Layer 2 Epoch 17 Batch 300 Accuracy 51.1524. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 17 Accuracy 71.5673
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 18 Batch 0 Accuracy 60.9375. Loss 0.0107
+Layer 2 Epoch 18 Batch 100 Accuracy 51.6244. Loss 0.0108
+Layer 2 Epoch 18 Batch 200 Accuracy 53.1483. Loss 0.0107
+Layer 2 Epoch 18 Batch 300 Accuracy 58.5963. Loss 0.0102
+------------
+Test : Lay 2, Model LSTM, Epoch 18 Accuracy 50.3892
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 19 Batch 0 Accuracy 85.9375. Loss 0.0067
+Layer 2 Epoch 19 Batch 100 Accuracy 81.4666. Loss 0.0075
+Layer 2 Epoch 19 Batch 200 Accuracy 81.8175. Loss 0.0074
+Layer 2 Epoch 19 Batch 300 Accuracy 82.5841. Loss 0.0071
+------------
+Test : Lay 2, Model LSTM, Epoch 19 Accuracy 73.0171
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 20 Batch 0 Accuracy 84.3750. Loss 0.0053
+Layer 2 Epoch 20 Batch 100 Accuracy 86.3397. Loss 0.0057
+Layer 2 Epoch 20 Batch 200 Accuracy 87.4845. Loss 0.0054
+Layer 2 Epoch 20 Batch 300 Accuracy 87.6765. Loss 0.0053
+------------
+Test : Lay 2, Model LSTM, Epoch 20 Accuracy 73.4479
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 21 Batch 0 Accuracy 92.1875. Loss 0.0031
+Layer 2 Epoch 21 Batch 100 Accuracy 90.3465. Loss 0.0042
+Layer 2 Epoch 21 Batch 200 Accuracy 90.0886. Loss 0.0043
+Layer 2 Epoch 21 Batch 300 Accuracy 89.9761. Loss 0.0044
+------------
+Test : Lay 2, Model LSTM, Epoch 21 Accuracy 73.1498
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 22 Batch 0 Accuracy 95.3125. Loss 0.0035
+Layer 2 Epoch 22 Batch 100 Accuracy 92.2803. Loss 0.0035
+Layer 2 Epoch 22 Batch 200 Accuracy 91.8299. Loss 0.0037
+Layer 2 Epoch 22 Batch 300 Accuracy 92.0473. Loss 0.0036
+------------
+Test : Lay 2, Model LSTM, Epoch 22 Accuracy 81.3347
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 23 Batch 0 Accuracy 92.1875. Loss 0.0039
+Layer 2 Epoch 23 Batch 100 Accuracy 93.4561. Loss 0.0033
+Layer 2 Epoch 23 Batch 200 Accuracy 93.8044. Loss 0.0031
+Layer 2 Epoch 23 Batch 300 Accuracy 93.9369. Loss 0.0030
+------------
+Test : Lay 2, Model LSTM, Epoch 23 Accuracy 82.8676
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 24 Batch 0 Accuracy 90.6250. Loss 0.0033
+Layer 2 Epoch 24 Batch 100 Accuracy 95.0186. Loss 0.0025
+Layer 2 Epoch 24 Batch 200 Accuracy 95.1026. Loss 0.0025
+Layer 2 Epoch 24 Batch 300 Accuracy 95.0218. Loss 0.0025
+------------
+Test : Lay 2, Model LSTM, Epoch 24 Accuracy 70.2094
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 25 Batch 0 Accuracy 95.3125. Loss 0.0033
+Layer 2 Epoch 25 Batch 100 Accuracy 96.3645. Loss 0.0020
+Layer 2 Epoch 25 Batch 200 Accuracy 96.3853. Loss 0.0020
+Layer 2 Epoch 25 Batch 300 Accuracy 96.3974. Loss 0.0020
+------------
+Test : Lay 2, Model LSTM, Epoch 25 Accuracy 83.8299
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 26 Batch 0 Accuracy 95.3125. Loss 0.0017
+Layer 2 Epoch 26 Batch 100 Accuracy 97.3082. Loss 0.0016
+Layer 2 Epoch 26 Batch 200 Accuracy 97.1393. Loss 0.0017
+Layer 2 Epoch 26 Batch 300 Accuracy 97.0671. Loss 0.0016
+------------
+Test : Lay 2, Model LSTM, Epoch 26 Accuracy 74.6987
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 27 Batch 0 Accuracy 96.8750. Loss 0.0021
+Layer 2 Epoch 27 Batch 100 Accuracy 97.9579. Loss 0.0014
+Layer 2 Epoch 27 Batch 200 Accuracy 97.9244. Loss 0.0013
+Layer 2 Epoch 27 Batch 300 Accuracy 97.7315. Loss 0.0014
+------------
+Test : Lay 2, Model LSTM, Epoch 27 Accuracy 77.5775
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 28 Batch 0 Accuracy 95.3125. Loss 0.0036
+Layer 2 Epoch 28 Batch 100 Accuracy 98.2054. Loss 0.0011
+Layer 2 Epoch 28 Batch 200 Accuracy 98.1576. Loss 0.0011
+Layer 2 Epoch 28 Batch 300 Accuracy 97.9340. Loss 0.0012
+------------
+Test : Lay 2, Model LSTM, Epoch 28 Accuracy 80.0527
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 29 Batch 0 Accuracy 100.0000. Loss 0.0004
+Layer 2 Epoch 29 Batch 100 Accuracy 98.3601. Loss 0.0011
+Layer 2 Epoch 29 Batch 200 Accuracy 98.3520. Loss 0.0011
+Layer 2 Epoch 29 Batch 300 Accuracy 98.0482. Loss 0.0011
+------------
+Test : Lay 2, Model LSTM, Epoch 29 Accuracy 74.4389
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 30 Batch 0 Accuracy 96.8750. Loss 0.0016
+Layer 2 Epoch 30 Batch 100 Accuracy 98.7624. Loss 0.0008
+Layer 2 Epoch 30 Batch 200 Accuracy 98.8340. Loss 0.0008
+Layer 2 Epoch 30 Batch 300 Accuracy 98.6607. Loss 0.0009
+------------
+Test : Lay 2, Model LSTM, Epoch 30 Accuracy 81.2516
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 31 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 31 Batch 100 Accuracy 98.8861. Loss 0.0007
+Layer 2 Epoch 31 Batch 200 Accuracy 98.8650. Loss 0.0008
+Layer 2 Epoch 31 Batch 300 Accuracy 98.7334. Loss 0.0008
+------------
+Test : Lay 2, Model LSTM, Epoch 31 Accuracy 82.3857
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 32 Batch 0 Accuracy 100.0000. Loss 0.0004
+Layer 2 Epoch 32 Batch 100 Accuracy 98.8861. Loss 0.0007
+Layer 2 Epoch 32 Batch 200 Accuracy 98.9039. Loss 0.0007
+Layer 2 Epoch 32 Batch 300 Accuracy 98.4842. Loss 0.0010
+------------
+Test : Lay 2, Model LSTM, Epoch 32 Accuracy 81.0750
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 33 Batch 0 Accuracy 98.4375. Loss 0.0010
+Layer 2 Epoch 33 Batch 100 Accuracy 99.3193. Loss 0.0005
+Layer 2 Epoch 33 Batch 200 Accuracy 99.1682. Loss 0.0006
+Layer 2 Epoch 33 Batch 300 Accuracy 99.1071. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 33 Accuracy 82.2682
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 34 Batch 0 Accuracy 98.4375. Loss 0.0006
+Layer 2 Epoch 34 Batch 100 Accuracy 99.2420. Loss 0.0005
+Layer 2 Epoch 34 Batch 200 Accuracy 99.1060. Loss 0.0007
+Layer 2 Epoch 34 Batch 300 Accuracy 99.1331. Loss 0.0007
+------------
+Test : Lay 2, Model LSTM, Epoch 34 Accuracy 80.0831
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 35 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 35 Batch 100 Accuracy 99.2420. Loss 0.0006
+Layer 2 Epoch 35 Batch 200 Accuracy 99.2537. Loss 0.0006
+Layer 2 Epoch 35 Batch 300 Accuracy 99.2940. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 35 Accuracy 84.5277
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 36 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 36 Batch 100 Accuracy 99.4895. Loss 0.0005
+Layer 2 Epoch 36 Batch 200 Accuracy 99.3004. Loss 0.0005
+Layer 2 Epoch 36 Batch 300 Accuracy 99.2836. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 36 Accuracy 82.1899
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 37 Batch 0 Accuracy 96.8750. Loss 0.0033
+Layer 2 Epoch 37 Batch 100 Accuracy 99.2420. Loss 0.0006
+Layer 2 Epoch 37 Batch 200 Accuracy 99.2693. Loss 0.0006
+Layer 2 Epoch 37 Batch 300 Accuracy 99.2265. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 37 Accuracy 81.7871
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 38 Batch 0 Accuracy 98.4375. Loss 0.0020
+Layer 2 Epoch 38 Batch 100 Accuracy 99.3657. Loss 0.0005
+Layer 2 Epoch 38 Batch 200 Accuracy 99.2615. Loss 0.0005
+Layer 2 Epoch 38 Batch 300 Accuracy 99.1954. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 38 Accuracy 84.6012
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 39 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 39 Batch 100 Accuracy 99.6597. Loss 0.0003
+Layer 2 Epoch 39 Batch 200 Accuracy 99.6035. Loss 0.0003
+Layer 2 Epoch 39 Batch 300 Accuracy 99.5224. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 39 Accuracy 80.6290
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 40 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 40 Batch 100 Accuracy 99.0563. Loss 0.0007
+Layer 2 Epoch 40 Batch 200 Accuracy 99.1527. Loss 0.0006
+Layer 2 Epoch 40 Batch 300 Accuracy 99.1487. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 40 Accuracy 81.6464
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 41 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 41 Batch 100 Accuracy 99.5668. Loss 0.0004
+Layer 2 Epoch 41 Batch 200 Accuracy 99.5569. Loss 0.0004
+Layer 2 Epoch 41 Batch 300 Accuracy 99.3771. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 41 Accuracy 83.2329
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 42 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 42 Batch 100 Accuracy 99.4585. Loss 0.0004
+Layer 2 Epoch 42 Batch 200 Accuracy 99.6191. Loss 0.0003
+Layer 2 Epoch 42 Batch 300 Accuracy 99.5691. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 42 Accuracy 82.4129
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 43 Batch 0 Accuracy 98.4375. Loss 0.0005
+Layer 2 Epoch 43 Batch 100 Accuracy 99.7215. Loss 0.0002
+Layer 2 Epoch 43 Batch 200 Accuracy 99.5414. Loss 0.0004
+Layer 2 Epoch 43 Batch 300 Accuracy 99.4965. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 43 Accuracy 82.8908
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 44 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 44 Batch 100 Accuracy 99.6132. Loss 0.0004
+Layer 2 Epoch 44 Batch 200 Accuracy 99.5025. Loss 0.0004
+Layer 2 Epoch 44 Batch 300 Accuracy 99.4913. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 44 Accuracy 83.5118
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 45 Batch 0 Accuracy 98.4375. Loss 0.0002
+Layer 2 Epoch 45 Batch 100 Accuracy 99.5978. Loss 0.0003
+Layer 2 Epoch 45 Batch 200 Accuracy 99.4636. Loss 0.0004
+Layer 2 Epoch 45 Batch 300 Accuracy 99.5069. Loss 0.0003
+------------
+Test : Lay 2, Model LSTM, Epoch 45 Accuracy 78.7756
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 46 Batch 0 Accuracy 98.4375. Loss 0.0014
+Layer 2 Epoch 46 Batch 100 Accuracy 99.3038. Loss 0.0005
+Layer 2 Epoch 46 Batch 200 Accuracy 99.0905. Loss 0.0006
+Layer 2 Epoch 46 Batch 300 Accuracy 98.9981. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 46 Accuracy 78.3999
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 47 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 47 Batch 100 Accuracy 99.3812. Loss 0.0004
+Layer 2 Epoch 47 Batch 200 Accuracy 99.4714. Loss 0.0004
+Layer 2 Epoch 47 Batch 300 Accuracy 99.2317. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 47 Accuracy 76.9325
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 48 Batch 0 Accuracy 98.4375. Loss 0.0007
+Layer 2 Epoch 48 Batch 100 Accuracy 99.5823. Loss 0.0003
+Layer 2 Epoch 48 Batch 200 Accuracy 99.5647. Loss 0.0003
+Layer 2 Epoch 48 Batch 300 Accuracy 99.5172. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 48 Accuracy 84.0113
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 49 Batch 0 Accuracy 100.0000. Loss 0.0000
+Layer 2 Epoch 49 Batch 100 Accuracy 99.7370. Loss 0.0003
+Layer 2 Epoch 49 Batch 200 Accuracy 99.7668. Loss 0.0002
+Layer 2 Epoch 49 Batch 300 Accuracy 99.7924. Loss 0.0002
+------------
+Test : Lay 2, Model LSTM, Epoch 49 Accuracy 83.1618
+Epoch time : 1mins 4secs
+============
+Layer 2 Epoch 50 Batch 0 Accuracy 98.4375. Loss 0.0007
+Layer 2 Epoch 50 Batch 100 Accuracy 99.6906. Loss 0.0003
+Layer 2 Epoch 50 Batch 200 Accuracy 99.7201. Loss 0.0002
+Layer 2 Epoch 50 Batch 300 Accuracy 99.7145. Loss 0.0002
+------------
+Test : Lay 2, Model LSTM, Epoch 50 Accuracy 84.3135
+Epoch time : 1mins 4secs
+============
+====================GRU====================
+Epoch 1 Batch 0 Accuracy 50.0000. Loss 0.0111
+Epoch 1 Batch 100 Accuracy 49.4276. Loss 0.0121
+Epoch 1 Batch 200 Accuracy 49.6580. Loss 0.0118
+Epoch 1 Batch 300 Accuracy 50.2959. Loss 0.0116
+------------
+Test : Lay 2, Model GRU, Epoch 1 Accuracy 49.9496
+Epoch time : 1mins 5secs
+============
+Epoch 2 Batch 0 Accuracy 56.2500. Loss 0.0108
+Epoch 2 Batch 100 Accuracy 49.7215. Loss 0.0112
+Epoch 2 Batch 200 Accuracy 52.4098. Loss 0.0111
+Epoch 2 Batch 300 Accuracy 51.9207. Loss 0.0111
+------------
+Test : Lay 2, Model GRU, Epoch 2 Accuracy 73.4655
+Epoch time : 1mins 5secs
+============
+Epoch 3 Batch 0 Accuracy 73.4375. Loss 0.0084
+Epoch 3 Batch 100 Accuracy 70.0340. Loss 0.0090
+Epoch 3 Batch 200 Accuracy 75.9406. Loss 0.0078
+Epoch 3 Batch 300 Accuracy 78.5870. Loss 0.0072
+------------
+Test : Lay 2, Model GRU, Epoch 3 Accuracy 86.4090
+Epoch time : 1mins 5secs
+============
+Epoch 4 Batch 0 Accuracy 90.6250. Loss 0.0037
+Epoch 4 Batch 100 Accuracy 90.0990. Loss 0.0041
+Epoch 4 Batch 200 Accuracy 90.0420. Loss 0.0041
+Epoch 4 Batch 300 Accuracy 89.8879. Loss 0.0041
+------------
+Test : Lay 2, Model GRU, Epoch 4 Accuracy 86.3635
+Epoch time : 1mins 5secs
+============
+Epoch 5 Batch 0 Accuracy 93.7500. Loss 0.0032
+Epoch 5 Batch 100 Accuracy 93.8738. Loss 0.0027
+Epoch 5 Batch 200 Accuracy 93.7811. Loss 0.0028
+Epoch 5 Batch 300 Accuracy 93.7708. Loss 0.0028
+------------
+Test : Lay 2, Model GRU, Epoch 5 Accuracy 88.7116
+Epoch time : 1mins 5secs
+============
+Epoch 6 Batch 0 Accuracy 98.4375. Loss 0.0016
+Epoch 6 Batch 100 Accuracy 96.1479. Loss 0.0019
+Epoch 6 Batch 200 Accuracy 96.0665. Loss 0.0019
+Epoch 6 Batch 300 Accuracy 96.0756. Loss 0.0019
+------------
+Test : Lay 2, Model GRU, Epoch 6 Accuracy 88.5510
+Epoch time : 1mins 6secs
+============
+Epoch 7 Batch 0 Accuracy 100.0000. Loss 0.0005
+Epoch 7 Batch 100 Accuracy 97.9579. Loss 0.0011
+Epoch 7 Batch 200 Accuracy 97.6368. Loss 0.0012
+Epoch 7 Batch 300 Accuracy 97.5446. Loss 0.0013
+------------
+Test : Lay 2, Model GRU, Epoch 7 Accuracy 88.2465
+Epoch time : 1mins 6secs
+============
+Epoch 8 Batch 0 Accuracy 100.0000. Loss 0.0002
+Epoch 8 Batch 100 Accuracy 98.5149. Loss 0.0008
+Epoch 8 Batch 200 Accuracy 93.2680. Loss 0.0027
+Epoch 8 Batch 300 Accuracy 92.2861. Loss 0.0030
+------------
+Test : Lay 2, Model GRU, Epoch 8 Accuracy 85.6642
+Epoch time : 1mins 6secs
+============
+Epoch 9 Batch 0 Accuracy 89.0625. Loss 0.0053
+Epoch 9 Batch 100 Accuracy 92.4814. Loss 0.0031
+Epoch 9 Batch 200 Accuracy 92.9804. Loss 0.0029
+Epoch 9 Batch 300 Accuracy 93.3970. Loss 0.0028
+------------
+Test : Lay 2, Model GRU, Epoch 9 Accuracy 86.4178
+Epoch time : 1mins 5secs
+============
+Epoch 10 Batch 0 Accuracy 85.9375. Loss 0.0037
+Epoch 10 Batch 100 Accuracy 95.2970. Loss 0.0021
+Epoch 10 Batch 200 Accuracy 95.2659. Loss 0.0021
+Epoch 10 Batch 300 Accuracy 95.1672. Loss 0.0022
+------------
+Test : Lay 2, Model GRU, Epoch 10 Accuracy 86.7487
+Epoch time : 1mins 5secs
+============
+Epoch 11 Batch 0 Accuracy 98.4375. Loss 0.0013
+Epoch 11 Batch 100 Accuracy 97.1689. Loss 0.0014
+Epoch 11 Batch 200 Accuracy 96.9605. Loss 0.0015
+Epoch 11 Batch 300 Accuracy 96.7919. Loss 0.0016
+------------
+Test : Lay 2, Model GRU, Epoch 11 Accuracy 86.5969
+Epoch time : 1mins 5secs
+============
+Epoch 12 Batch 0 Accuracy 100.0000. Loss 0.0004
+Epoch 12 Batch 100 Accuracy 97.5248. Loss 0.0013
+Epoch 12 Batch 200 Accuracy 97.2326. Loss 0.0014
+Epoch 12 Batch 300 Accuracy 97.2124. Loss 0.0015
+------------
+Test : Lay 2, Model GRU, Epoch 12 Accuracy 86.5521
+Epoch time : 1mins 5secs
+============
+Epoch 13 Batch 0 Accuracy 96.8750. Loss 0.0017
+Epoch 13 Batch 100 Accuracy 98.1745. Loss 0.0011
+Epoch 13 Batch 200 Accuracy 98.0566. Loss 0.0011
+Epoch 13 Batch 300 Accuracy 97.9703. Loss 0.0011
+------------
+Test : Lay 2, Model GRU, Epoch 13 Accuracy 85.7992
+Epoch time : 1mins 5secs
+============
+Epoch 14 Batch 0 Accuracy 100.0000. Loss 0.0005
+Epoch 14 Batch 100 Accuracy 98.7005. Loss 0.0008
+Epoch 14 Batch 200 Accuracy 98.5386. Loss 0.0009
+Epoch 14 Batch 300 Accuracy 98.4219. Loss 0.0009
+------------
+Test : Lay 2, Model GRU, Epoch 14 Accuracy 86.6113
+Epoch time : 1mins 5secs
+============
+Epoch 15 Batch 0 Accuracy 98.4375. Loss 0.0004
+Epoch 15 Batch 100 Accuracy 98.4684. Loss 0.0009
+Epoch 15 Batch 200 Accuracy 98.6707. Loss 0.0008
+Epoch 15 Batch 300 Accuracy 98.6140. Loss 0.0008
+------------
+Test : Lay 2, Model GRU, Epoch 15 Accuracy 84.8521
+Epoch time : 1mins 5secs
+============
+Epoch 16 Batch 0 Accuracy 98.4375. Loss 0.0003
+Epoch 16 Batch 100 Accuracy 98.7778. Loss 0.0008
+Epoch 16 Batch 200 Accuracy 98.8650. Loss 0.0007
+Epoch 16 Batch 300 Accuracy 98.8164. Loss 0.0007
+------------
+Test : Lay 2, Model GRU, Epoch 16 Accuracy 86.0502
+Epoch time : 1mins 5secs
+============
+Epoch 17 Batch 0 Accuracy 100.0000. Loss 0.0002
+Epoch 17 Batch 100 Accuracy 98.9635. Loss 0.0006
+Epoch 17 Batch 200 Accuracy 99.0127. Loss 0.0006
+Epoch 17 Batch 300 Accuracy 99.0241. Loss 0.0006
+------------
+Test : Lay 2, Model GRU, Epoch 17 Accuracy 84.3686
+Epoch time : 1mins 5secs
+============
+Epoch 18 Batch 0 Accuracy 100.0000. Loss 0.0003
+Epoch 18 Batch 100 Accuracy 99.0254. Loss 0.0006
+Epoch 18 Batch 200 Accuracy 98.7873. Loss 0.0007
+Epoch 18 Batch 300 Accuracy 98.9358. Loss 0.0007
+------------
+Test : Lay 2, Model GRU, Epoch 18 Accuracy 85.8760
+Epoch time : 1mins 5secs
+============
+Epoch 19 Batch 0 Accuracy 98.4375. Loss 0.0006
+Epoch 19 Batch 100 Accuracy 99.5204. Loss 0.0004
+Epoch 19 Batch 200 Accuracy 99.2615. Loss 0.0005
+Epoch 19 Batch 300 Accuracy 99.2058. Loss 0.0005
+------------
+Test : Lay 2, Model GRU, Epoch 19 Accuracy 85.8400
+Epoch time : 1mins 5secs
+============
+Epoch 20 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 20 Batch 100 Accuracy 99.3812. Loss 0.0004
+Epoch 20 Batch 200 Accuracy 99.4325. Loss 0.0004
+Epoch 20 Batch 300 Accuracy 99.4082. Loss 0.0005
+------------
+Test : Lay 2, Model GRU, Epoch 20 Accuracy 85.5235
+Epoch time : 1mins 5secs
+============
+Epoch 21 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 21 Batch 100 Accuracy 99.3967. Loss 0.0004
+Epoch 21 Batch 200 Accuracy 99.2848. Loss 0.0005
+Epoch 21 Batch 300 Accuracy 99.3407. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 21 Accuracy 85.4691
+Epoch time : 1mins 5secs
+============
+Epoch 22 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 22 Batch 100 Accuracy 99.3812. Loss 0.0004
+Epoch 22 Batch 200 Accuracy 99.4092. Loss 0.0004
+Epoch 22 Batch 300 Accuracy 99.4134. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 22 Accuracy 85.7585
+Epoch time : 1mins 5secs
+============
+Epoch 23 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 23 Batch 100 Accuracy 99.3038. Loss 0.0004
+Epoch 23 Batch 200 Accuracy 99.3937. Loss 0.0004
+Epoch 23 Batch 300 Accuracy 99.4290. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 23 Accuracy 85.5515
+Epoch time : 1mins 5secs
+============
+Epoch 24 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 24 Batch 100 Accuracy 99.5359. Loss 0.0003
+Epoch 24 Batch 200 Accuracy 99.6113. Loss 0.0003
+Epoch 24 Batch 300 Accuracy 99.5328. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 24 Accuracy 85.6370
+Epoch time : 1mins 5secs
+============
+Epoch 25 Batch 0 Accuracy 96.8750. Loss 0.0043
+Epoch 25 Batch 100 Accuracy 99.6132. Loss 0.0004
+Epoch 25 Batch 200 Accuracy 99.5725. Loss 0.0004
+Epoch 25 Batch 300 Accuracy 99.6055. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 25 Accuracy 85.7912
+Epoch time : 1mins 5secs
+============
+Epoch 26 Batch 0 Accuracy 96.8750. Loss 0.0020
+Epoch 26 Batch 100 Accuracy 99.0563. Loss 0.0006
+Epoch 26 Batch 200 Accuracy 99.1138. Loss 0.0006
+Epoch 26 Batch 300 Accuracy 99.1902. Loss 0.0005
+------------
+Test : Lay 2, Model GRU, Epoch 26 Accuracy 85.2621
+Epoch time : 1mins 5secs
+============
+Epoch 27 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 27 Batch 100 Accuracy 99.7061. Loss 0.0003
+Epoch 27 Batch 200 Accuracy 99.6580. Loss 0.0003
+Epoch 27 Batch 300 Accuracy 99.5380. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 27 Accuracy 85.5579
+Epoch time : 1mins 5secs
+============
+Epoch 28 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 28 Batch 100 Accuracy 99.2884. Loss 0.0004
+Epoch 28 Batch 200 Accuracy 99.4792. Loss 0.0004
+Epoch 28 Batch 300 Accuracy 99.4705. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 28 Accuracy 85.8352
+Epoch time : 1mins 5secs
+============
+Epoch 29 Batch 0 Accuracy 100.0000. Loss 0.0002
+Epoch 29 Batch 100 Accuracy 99.6597. Loss 0.0003
+Epoch 29 Batch 200 Accuracy 99.7201. Loss 0.0002
+Epoch 29 Batch 300 Accuracy 99.6626. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 29 Accuracy 85.3461
+Epoch time : 1mins 5secs
+============
+Epoch 30 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 30 Batch 100 Accuracy 99.2884. Loss 0.0005
+Epoch 30 Batch 200 Accuracy 99.3781. Loss 0.0004
+Epoch 30 Batch 300 Accuracy 99.4913. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 30 Accuracy 85.2693
+Epoch time : 1mins 5secs
+============
+====================Bi-LSTM====================
+Layer 2 Epoch 1 Batch 0 Accuracy 53.1250. Loss 0.0109
+Layer 2 Epoch 1 Batch 100 Accuracy 49.5823. Loss 0.0109
+Layer 2 Epoch 1 Batch 200 Accuracy 49.3004. Loss 0.0109
+Layer 2 Epoch 1 Batch 300 Accuracy 49.8443. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 1 Accuracy 50.0304
+Epoch time : 2mins 37secs
+============
+Layer 2 Epoch 2 Batch 0 Accuracy 50.0000. Loss 0.0109
+Layer 2 Epoch 2 Batch 100 Accuracy 50.1083. Loss 0.0108
+Layer 2 Epoch 2 Batch 200 Accuracy 50.3809. Loss 0.0108
+Layer 2 Epoch 2 Batch 300 Accuracy 50.0363. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 2 Accuracy 50.0184
+Epoch time : 2mins 37secs
+============
+Layer 2 Epoch 3 Batch 0 Accuracy 48.4375. Loss 0.0108
+Layer 2 Epoch 3 Batch 100 Accuracy 49.0563. Loss 0.0108
+Layer 2 Epoch 3 Batch 200 Accuracy 49.4092. Loss 0.0108
+Layer 2 Epoch 3 Batch 300 Accuracy 49.6107. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 3 Accuracy 49.9896
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 4 Batch 0 Accuracy 54.6875. Loss 0.0108
+Layer 2 Epoch 4 Batch 100 Accuracy 49.7525. Loss 0.0108
+Layer 2 Epoch 4 Batch 200 Accuracy 49.6813. Loss 0.0108
+Layer 2 Epoch 4 Batch 300 Accuracy 50.0311. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 4 Accuracy 50.0352
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 5 Batch 0 Accuracy 46.8750. Loss 0.0109
+Layer 2 Epoch 5 Batch 100 Accuracy 50.9746. Loss 0.0108
+Layer 2 Epoch 5 Batch 200 Accuracy 51.0261. Loss 0.0108
+Layer 2 Epoch 5 Batch 300 Accuracy 50.7942. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 5 Accuracy 49.9664
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 6 Batch 0 Accuracy 59.3750. Loss 0.0108
+Layer 2 Epoch 6 Batch 100 Accuracy 49.1027. Loss 0.0108
+Layer 2 Epoch 6 Batch 200 Accuracy 49.9378. Loss 0.0108
+Layer 2 Epoch 6 Batch 300 Accuracy 49.5951. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 6 Accuracy 49.9608
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 7 Batch 0 Accuracy 51.5625. Loss 0.0114
+Layer 2 Epoch 7 Batch 100 Accuracy 49.0563. Loss 0.0111
+Layer 2 Epoch 7 Batch 200 Accuracy 49.5647. Loss 0.0111
+Layer 2 Epoch 7 Batch 300 Accuracy 49.7197. Loss 0.0111
+------------
+Test : Lay 2, Model LSTM, Epoch 7 Accuracy 50.2781
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 8 Batch 0 Accuracy 46.8750. Loss 0.0109
+Layer 2 Epoch 8 Batch 100 Accuracy 50.4177. Loss 0.0110
+Layer 2 Epoch 8 Batch 200 Accuracy 50.4975. Loss 0.0109
+Layer 2 Epoch 8 Batch 300 Accuracy 50.4309. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 8 Accuracy 49.9480
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 9 Batch 0 Accuracy 50.0000. Loss 0.0109
+Layer 2 Epoch 9 Batch 100 Accuracy 50.7735. Loss 0.0109
+Layer 2 Epoch 9 Batch 200 Accuracy 49.8989. Loss 0.0109
+Layer 2 Epoch 9 Batch 300 Accuracy 49.8391. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 9 Accuracy 49.6947
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 10 Batch 0 Accuracy 40.6250. Loss 0.0124
+Layer 2 Epoch 10 Batch 100 Accuracy 49.5978. Loss 0.0111
+Layer 2 Epoch 10 Batch 200 Accuracy 49.9534. Loss 0.0111
+Layer 2 Epoch 10 Batch 300 Accuracy 50.0311. Loss 0.0110
+------------
+Test : Lay 2, Model LSTM, Epoch 10 Accuracy 50.1127
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 11 Batch 0 Accuracy 51.5625. Loss 0.0108
+Layer 2 Epoch 11 Batch 100 Accuracy 50.6343. Loss 0.0109
+Layer 2 Epoch 11 Batch 200 Accuracy 49.9922. Loss 0.0109
+Layer 2 Epoch 11 Batch 300 Accuracy 49.9792. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 11 Accuracy 50.0192
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 12 Batch 0 Accuracy 45.3125. Loss 0.0111
+Layer 2 Epoch 12 Batch 100 Accuracy 50.5724. Loss 0.0108
+Layer 2 Epoch 12 Batch 200 Accuracy 50.5208. Loss 0.0108
+Layer 2 Epoch 12 Batch 300 Accuracy 50.1921. Loss 0.0109
+------------
+Test : Lay 2, Model LSTM, Epoch 12 Accuracy 49.9880
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 13 Batch 0 Accuracy 53.1250. Loss 0.0108
+Layer 2 Epoch 13 Batch 100 Accuracy 50.4177. Loss 0.0108
+Layer 2 Epoch 13 Batch 200 Accuracy 50.1399. Loss 0.0108
+Layer 2 Epoch 13 Batch 300 Accuracy 49.7716. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 13 Accuracy 50.0424
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 14 Batch 0 Accuracy 65.6250. Loss 0.0107
+Layer 2 Epoch 14 Batch 100 Accuracy 50.0000. Loss 0.0108
+Layer 2 Epoch 14 Batch 200 Accuracy 49.8678. Loss 0.0108
+Layer 2 Epoch 14 Batch 300 Accuracy 49.7664. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 14 Accuracy 49.9752
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 15 Batch 0 Accuracy 46.8750. Loss 0.0110
+Layer 2 Epoch 15 Batch 100 Accuracy 50.4641. Loss 0.0108
+Layer 2 Epoch 15 Batch 200 Accuracy 50.5675. Loss 0.0108
+Layer 2 Epoch 15 Batch 300 Accuracy 50.2128. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 15 Accuracy 49.9648
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 16 Batch 0 Accuracy 43.7500. Loss 0.0109
+Layer 2 Epoch 16 Batch 100 Accuracy 50.1702. Loss 0.0108
+Layer 2 Epoch 16 Batch 200 Accuracy 50.0855. Loss 0.0108
+Layer 2 Epoch 16 Batch 300 Accuracy 49.9844. Loss 0.0108
+------------
+Test : Lay 2, Model LSTM, Epoch 16 Accuracy 52.9835
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 17 Batch 0 Accuracy 54.6875. Loss 0.0107
+Layer 2 Epoch 17 Batch 100 Accuracy 52.4752. Loss 0.0108
+Layer 2 Epoch 17 Batch 200 Accuracy 54.3921. Loss 0.0107
+Layer 2 Epoch 17 Batch 300 Accuracy 56.3746. Loss 0.0106
+------------
+Test : Lay 2, Model LSTM, Epoch 17 Accuracy 62.0820
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 18 Batch 0 Accuracy 71.8750. Loss 0.0104
+Layer 2 Epoch 18 Batch 100 Accuracy 68.8274. Loss 0.0096
+Layer 2 Epoch 18 Batch 200 Accuracy 72.0149. Loss 0.0092
+Layer 2 Epoch 18 Batch 300 Accuracy 74.3978. Loss 0.0088
+------------
+Test : Lay 2, Model LSTM, Epoch 18 Accuracy 79.3230
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 19 Batch 0 Accuracy 85.9375. Loss 0.0069
+Layer 2 Epoch 19 Batch 100 Accuracy 82.5031. Loss 0.0072
+Layer 2 Epoch 19 Batch 200 Accuracy 79.9596. Loss 0.0076
+Layer 2 Epoch 19 Batch 300 Accuracy 80.2326. Loss 0.0075
+------------
+Test : Lay 2, Model LSTM, Epoch 19 Accuracy 79.2319
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 20 Batch 0 Accuracy 87.5000. Loss 0.0063
+Layer 2 Epoch 20 Batch 100 Accuracy 84.1894. Loss 0.0068
+Layer 2 Epoch 20 Batch 200 Accuracy 83.7842. Loss 0.0068
+Layer 2 Epoch 20 Batch 300 Accuracy 84.1310. Loss 0.0067
+------------
+Test : Lay 2, Model LSTM, Epoch 20 Accuracy 80.8720
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 21 Batch 0 Accuracy 85.9375. Loss 0.0057
+Layer 2 Epoch 21 Batch 100 Accuracy 86.4171. Loss 0.0060
+Layer 2 Epoch 21 Batch 200 Accuracy 86.8315. Loss 0.0059
+Layer 2 Epoch 21 Batch 300 Accuracy 86.2749. Loss 0.0060
+------------
+Test : Lay 2, Model LSTM, Epoch 21 Accuracy 82.9771
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 22 Batch 0 Accuracy 92.1875. Loss 0.0040
+Layer 2 Epoch 22 Batch 100 Accuracy 88.1033. Loss 0.0053
+Layer 2 Epoch 22 Batch 200 Accuracy 88.3706. Loss 0.0053
+Layer 2 Epoch 22 Batch 300 Accuracy 87.8011. Loss 0.0055
+------------
+Test : Lay 2, Model LSTM, Epoch 22 Accuracy 83.0211
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 23 Batch 0 Accuracy 84.3750. Loss 0.0067
+Layer 2 Epoch 23 Batch 100 Accuracy 89.2946. Loss 0.0049
+Layer 2 Epoch 23 Batch 200 Accuracy 88.7749. Loss 0.0050
+Layer 2 Epoch 23 Batch 300 Accuracy 88.8081. Loss 0.0051
+------------
+Test : Lay 2, Model LSTM, Epoch 23 Accuracy 83.9570
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 24 Batch 0 Accuracy 93.7500. Loss 0.0043
+Layer 2 Epoch 24 Batch 100 Accuracy 91.7234. Loss 0.0042
+Layer 2 Epoch 24 Batch 200 Accuracy 90.5162. Loss 0.0046
+Layer 2 Epoch 24 Batch 300 Accuracy 90.5783. Loss 0.0045
+------------
+Test : Lay 2, Model LSTM, Epoch 24 Accuracy 84.4333
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 25 Batch 0 Accuracy 93.7500. Loss 0.0030
+Layer 2 Epoch 25 Batch 100 Accuracy 93.1931. Loss 0.0035
+Layer 2 Epoch 25 Batch 200 Accuracy 92.6228. Loss 0.0037
+Layer 2 Epoch 25 Batch 300 Accuracy 92.7481. Loss 0.0037
+------------
+Test : Lay 2, Model LSTM, Epoch 25 Accuracy 85.0440
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 26 Batch 0 Accuracy 98.4375. Loss 0.0016
+Layer 2 Epoch 26 Batch 100 Accuracy 94.4152. Loss 0.0030
+Layer 2 Epoch 26 Batch 200 Accuracy 92.6928. Loss 0.0035
+Layer 2 Epoch 26 Batch 300 Accuracy 92.7014. Loss 0.0035
+------------
+Test : Lay 2, Model LSTM, Epoch 26 Accuracy 84.9433
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 27 Batch 0 Accuracy 95.3125. Loss 0.0025
+Layer 2 Epoch 27 Batch 100 Accuracy 94.4616. Loss 0.0028
+Layer 2 Epoch 27 Batch 200 Accuracy 94.4419. Loss 0.0028
+Layer 2 Epoch 27 Batch 300 Accuracy 94.5235. Loss 0.0028
+------------
+Test : Lay 2, Model LSTM, Epoch 27 Accuracy 85.2502
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 28 Batch 0 Accuracy 98.4375. Loss 0.0012
+Layer 2 Epoch 28 Batch 100 Accuracy 95.5136. Loss 0.0024
+Layer 2 Epoch 28 Batch 200 Accuracy 95.5924. Loss 0.0024
+Layer 2 Epoch 28 Batch 300 Accuracy 95.6188. Loss 0.0023
+------------
+Test : Lay 2, Model LSTM, Epoch 28 Accuracy 85.0416
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 29 Batch 0 Accuracy 96.8750. Loss 0.0010
+Layer 2 Epoch 29 Batch 100 Accuracy 96.4109. Loss 0.0019
+Layer 2 Epoch 29 Batch 200 Accuracy 96.2531. Loss 0.0020
+Layer 2 Epoch 29 Batch 300 Accuracy 96.2054. Loss 0.0020
+------------
+Test : Lay 2, Model LSTM, Epoch 29 Accuracy 85.5195
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 30 Batch 0 Accuracy 93.7500. Loss 0.0045
+Layer 2 Epoch 30 Batch 100 Accuracy 97.0606. Loss 0.0016
+Layer 2 Epoch 30 Batch 200 Accuracy 96.8517. Loss 0.0016
+Layer 2 Epoch 30 Batch 300 Accuracy 96.8802. Loss 0.0016
+------------
+Test : Lay 2, Model LSTM, Epoch 30 Accuracy 84.9888
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 31 Batch 0 Accuracy 98.4375. Loss 0.0005
+Layer 2 Epoch 31 Batch 100 Accuracy 97.4783. Loss 0.0012
+Layer 2 Epoch 31 Batch 200 Accuracy 97.1782. Loss 0.0015
+Layer 2 Epoch 31 Batch 300 Accuracy 96.5012. Loss 0.0017
+------------
+Test : Lay 2, Model LSTM, Epoch 31 Accuracy 83.4423
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 32 Batch 0 Accuracy 98.4375. Loss 0.0011
+Layer 2 Epoch 32 Batch 100 Accuracy 97.1380. Loss 0.0015
+Layer 2 Epoch 32 Batch 200 Accuracy 97.5202. Loss 0.0014
+Layer 2 Epoch 32 Batch 300 Accuracy 97.2020. Loss 0.0015
+------------
+Test : Lay 2, Model LSTM, Epoch 32 Accuracy 83.9898
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 33 Batch 0 Accuracy 100.0000. Loss 0.0006
+Layer 2 Epoch 33 Batch 100 Accuracy 98.1900. Loss 0.0011
+Layer 2 Epoch 33 Batch 200 Accuracy 97.7534. Loss 0.0012
+Layer 2 Epoch 33 Batch 300 Accuracy 97.8405. Loss 0.0012
+------------
+Test : Lay 2, Model LSTM, Epoch 33 Accuracy 84.5213
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 34 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 34 Batch 100 Accuracy 98.7005. Loss 0.0008
+Layer 2 Epoch 34 Batch 200 Accuracy 98.5774. Loss 0.0008
+Layer 2 Epoch 34 Batch 300 Accuracy 98.2558. Loss 0.0010
+------------
+Test : Lay 2, Model LSTM, Epoch 34 Accuracy 84.6731
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 35 Batch 0 Accuracy 100.0000. Loss 0.0004
+Layer 2 Epoch 35 Batch 100 Accuracy 98.6696. Loss 0.0008
+Layer 2 Epoch 35 Batch 200 Accuracy 98.4997. Loss 0.0009
+Layer 2 Epoch 35 Batch 300 Accuracy 98.2662. Loss 0.0010
+------------
+Test : Lay 2, Model LSTM, Epoch 35 Accuracy 84.3502
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 36 Batch 0 Accuracy 98.4375. Loss 0.0012
+Layer 2 Epoch 36 Batch 100 Accuracy 98.3292. Loss 0.0009
+Layer 2 Epoch 36 Batch 200 Accuracy 98.1343. Loss 0.0010
+Layer 2 Epoch 36 Batch 300 Accuracy 97.8146. Loss 0.0011
+------------
+Test : Lay 2, Model LSTM, Epoch 36 Accuracy 83.7212
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 37 Batch 0 Accuracy 96.8750. Loss 0.0013
+Layer 2 Epoch 37 Batch 100 Accuracy 97.0761. Loss 0.0015
+Layer 2 Epoch 37 Batch 200 Accuracy 97.4347. Loss 0.0014
+Layer 2 Epoch 37 Batch 300 Accuracy 97.3422. Loss 0.0014
+------------
+Test : Lay 2, Model LSTM, Epoch 37 Accuracy 84.5636
+Epoch time : 2mins 35secs
+============
+Layer 2 Epoch 38 Batch 0 Accuracy 98.4375. Loss 0.0015
+Layer 2 Epoch 38 Batch 100 Accuracy 98.7314. Loss 0.0008
+Layer 2 Epoch 38 Batch 200 Accuracy 98.7562. Loss 0.0008
+Layer 2 Epoch 38 Batch 300 Accuracy 98.6867. Loss 0.0008
+------------
+Test : Lay 2, Model LSTM, Epoch 38 Accuracy 84.4230
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 39 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 39 Batch 100 Accuracy 99.2265. Loss 0.0006
+Layer 2 Epoch 39 Batch 200 Accuracy 99.0283. Loss 0.0007
+Layer 2 Epoch 39 Batch 300 Accuracy 99.0189. Loss 0.0007
+------------
+Test : Lay 2, Model LSTM, Epoch 39 Accuracy 83.9642
+Epoch time : 2mins 37secs
+============
+Layer 2 Epoch 40 Batch 0 Accuracy 98.4375. Loss 0.0019
+Layer 2 Epoch 40 Batch 100 Accuracy 98.7624. Loss 0.0008
+Layer 2 Epoch 40 Batch 200 Accuracy 98.7873. Loss 0.0007
+Layer 2 Epoch 40 Batch 300 Accuracy 98.8113. Loss 0.0008
+------------
+Test : Lay 2, Model LSTM, Epoch 40 Accuracy 83.0011
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 41 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 41 Batch 100 Accuracy 98.3756. Loss 0.0009
+Layer 2 Epoch 41 Batch 200 Accuracy 98.5774. Loss 0.0008
+Layer 2 Epoch 41 Batch 300 Accuracy 98.6400. Loss 0.0008
+------------
+Test : Lay 2, Model LSTM, Epoch 41 Accuracy 83.6333
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 42 Batch 0 Accuracy 98.4375. Loss 0.0005
+Layer 2 Epoch 42 Batch 100 Accuracy 99.0099. Loss 0.0007
+Layer 2 Epoch 42 Batch 200 Accuracy 99.0594. Loss 0.0006
+Layer 2 Epoch 42 Batch 300 Accuracy 98.9151. Loss 0.0007
+------------
+Test : Lay 2, Model LSTM, Epoch 42 Accuracy 83.8211
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 43 Batch 0 Accuracy 98.4375. Loss 0.0013
+Layer 2 Epoch 43 Batch 100 Accuracy 98.9480. Loss 0.0007
+Layer 2 Epoch 43 Batch 200 Accuracy 98.9583. Loss 0.0006
+Layer 2 Epoch 43 Batch 300 Accuracy 98.6348. Loss 0.0008
+------------
+Test : Lay 2, Model LSTM, Epoch 43 Accuracy 84.2319
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 44 Batch 0 Accuracy 96.8750. Loss 0.0017
+Layer 2 Epoch 44 Batch 100 Accuracy 98.5767. Loss 0.0009
+Layer 2 Epoch 44 Batch 200 Accuracy 98.4764. Loss 0.0009
+Layer 2 Epoch 44 Batch 300 Accuracy 98.4998. Loss 0.0009
+------------
+Test : Lay 2, Model LSTM, Epoch 44 Accuracy 83.6101
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 45 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 45 Batch 100 Accuracy 98.7314. Loss 0.0008
+Layer 2 Epoch 45 Batch 200 Accuracy 99.0361. Loss 0.0007
+Layer 2 Epoch 45 Batch 300 Accuracy 99.0500. Loss 0.0007
+------------
+Test : Lay 2, Model LSTM, Epoch 45 Accuracy 84.4293
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 46 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 46 Batch 100 Accuracy 99.0873. Loss 0.0005
+Layer 2 Epoch 46 Batch 200 Accuracy 99.0205. Loss 0.0006
+Layer 2 Epoch 46 Batch 300 Accuracy 99.0293. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 46 Accuracy 84.1416
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 47 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 47 Batch 100 Accuracy 99.4895. Loss 0.0004
+Layer 2 Epoch 47 Batch 200 Accuracy 99.4714. Loss 0.0004
+Layer 2 Epoch 47 Batch 300 Accuracy 99.4498. Loss 0.0004
+------------
+Test : Lay 2, Model LSTM, Epoch 47 Accuracy 83.7820
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 48 Batch 0 Accuracy 100.0000. Loss 0.0001
+Layer 2 Epoch 48 Batch 100 Accuracy 99.3502. Loss 0.0005
+Layer 2 Epoch 48 Batch 200 Accuracy 99.0983. Loss 0.0006
+Layer 2 Epoch 48 Batch 300 Accuracy 99.1694. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 48 Accuracy 84.5133
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 49 Batch 0 Accuracy 98.4375. Loss 0.0012
+Layer 2 Epoch 49 Batch 100 Accuracy 98.9480. Loss 0.0007
+Layer 2 Epoch 49 Batch 200 Accuracy 99.0283. Loss 0.0006
+Layer 2 Epoch 49 Batch 300 Accuracy 98.9774. Loss 0.0006
+------------
+Test : Lay 2, Model LSTM, Epoch 49 Accuracy 84.7466
+Epoch time : 2mins 36secs
+============
+Layer 2 Epoch 50 Batch 0 Accuracy 100.0000. Loss 0.0002
+Layer 2 Epoch 50 Batch 100 Accuracy 99.1491. Loss 0.0005
+Layer 2 Epoch 50 Batch 200 Accuracy 99.1527. Loss 0.0005
+Layer 2 Epoch 50 Batch 300 Accuracy 99.2369. Loss 0.0005
+------------
+Test : Lay 2, Model LSTM, Epoch 50 Accuracy 84.5924
+Epoch time : 2mins 36secs
+============
+====================Bi-GRU====================
+Epoch 1 Batch 0 Accuracy 53.1250. Loss 0.0106
+Epoch 1 Batch 100 Accuracy 51.0675. Loss 0.0115
+Epoch 1 Batch 200 Accuracy 54.3221. Loss 0.0111
+Epoch 1 Batch 300 Accuracy 59.4892. Loss 0.0105
+------------
+Test : Lay 2, Model GRU, Epoch 1 Accuracy 81.8167
+Epoch time : 2mins 54secs
+============
+Epoch 2 Batch 0 Accuracy 89.0625. Loss 0.0049
+Epoch 2 Batch 100 Accuracy 83.4468. Loss 0.0060
+Epoch 2 Batch 200 Accuracy 85.1135. Loss 0.0055
+Epoch 2 Batch 300 Accuracy 85.8544. Loss 0.0053
+------------
+Test : Lay 2, Model GRU, Epoch 2 Accuracy 87.4512
+Epoch time : 2mins 53secs
+============
+Epoch 3 Batch 0 Accuracy 90.6250. Loss 0.0032
+Epoch 3 Batch 100 Accuracy 92.8682. Loss 0.0031
+Epoch 3 Batch 200 Accuracy 92.6073. Loss 0.0031
+Epoch 3 Batch 300 Accuracy 92.5405. Loss 0.0031
+------------
+Test : Lay 2, Model GRU, Epoch 3 Accuracy 88.7396
+Epoch time : 2mins 53secs
+============
+Epoch 4 Batch 0 Accuracy 92.1875. Loss 0.0031
+Epoch 4 Batch 100 Accuracy 96.7976. Loss 0.0016
+Epoch 4 Batch 200 Accuracy 96.5330. Loss 0.0017
+Epoch 4 Batch 300 Accuracy 96.2832. Loss 0.0018
+------------
+Test : Lay 2, Model GRU, Epoch 4 Accuracy 88.7540
+Epoch time : 2mins 53secs
+============
+Epoch 5 Batch 0 Accuracy 98.4375. Loss 0.0008
+Epoch 5 Batch 100 Accuracy 97.7877. Loss 0.0011
+Epoch 5 Batch 200 Accuracy 97.9011. Loss 0.0011
+Epoch 5 Batch 300 Accuracy 97.7523. Loss 0.0011
+------------
+Test : Lay 2, Model GRU, Epoch 5 Accuracy 87.6039
+Epoch time : 2mins 53secs
+============
+Epoch 6 Batch 0 Accuracy 98.4375. Loss 0.0004
+Epoch 6 Batch 100 Accuracy 99.0099. Loss 0.0006
+Epoch 6 Batch 200 Accuracy 98.8573. Loss 0.0007
+Epoch 6 Batch 300 Accuracy 98.8943. Loss 0.0006
+------------
+Test : Lay 2, Model GRU, Epoch 6 Accuracy 88.3863
+Epoch time : 2mins 53secs
+============
+Epoch 7 Batch 0 Accuracy 100.0000. Loss 0.0002
+Epoch 7 Batch 100 Accuracy 99.0563. Loss 0.0005
+Epoch 7 Batch 200 Accuracy 99.0127. Loss 0.0005
+Epoch 7 Batch 300 Accuracy 98.9566. Loss 0.0006
+------------
+Test : Lay 2, Model GRU, Epoch 7 Accuracy 88.0451
+Epoch time : 2mins 53secs
+============
+Epoch 8 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 8 Batch 100 Accuracy 99.2420. Loss 0.0004
+Epoch 8 Batch 200 Accuracy 99.2149. Loss 0.0004
+Epoch 8 Batch 300 Accuracy 99.2058. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 8 Accuracy 88.3919
+Epoch time : 2mins 53secs
+============
+Epoch 9 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 9 Batch 100 Accuracy 99.4585. Loss 0.0003
+Epoch 9 Batch 200 Accuracy 99.3315. Loss 0.0004
+Epoch 9 Batch 300 Accuracy 99.2681. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 9 Accuracy 88.3656
+Epoch time : 2mins 55secs
+============
+Epoch 10 Batch 0 Accuracy 100.0000. Loss 0.0002
+Epoch 10 Batch 100 Accuracy 99.6906. Loss 0.0002
+Epoch 10 Batch 200 Accuracy 99.6113. Loss 0.0003
+Epoch 10 Batch 300 Accuracy 99.5743. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 10 Accuracy 88.3840
+Epoch time : 2mins 55secs
+============
+Epoch 11 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 11 Batch 100 Accuracy 99.4585. Loss 0.0003
+Epoch 11 Batch 200 Accuracy 99.4248. Loss 0.0004
+Epoch 11 Batch 300 Accuracy 99.3511. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 11 Accuracy 88.2433
+Epoch time : 2mins 55secs
+============
+Epoch 12 Batch 0 Accuracy 98.4375. Loss 0.0002
+Epoch 12 Batch 100 Accuracy 99.3502. Loss 0.0004
+Epoch 12 Batch 200 Accuracy 99.3470. Loss 0.0004
+Epoch 12 Batch 300 Accuracy 99.3355. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 12 Accuracy 88.0059
+Epoch time : 2mins 53secs
+============
+Epoch 13 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 13 Batch 100 Accuracy 99.6442. Loss 0.0002
+Epoch 13 Batch 200 Accuracy 99.6346. Loss 0.0002
+Epoch 13 Batch 300 Accuracy 99.5328. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 13 Accuracy 87.7158
+Epoch time : 2mins 53secs
+============
+Epoch 14 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 14 Batch 100 Accuracy 99.6132. Loss 0.0003
+Epoch 14 Batch 200 Accuracy 99.3081. Loss 0.0004
+Epoch 14 Batch 300 Accuracy 99.2940. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 14 Accuracy 88.2984
+Epoch time : 2mins 54secs
+============
+Epoch 15 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 15 Batch 100 Accuracy 99.6287. Loss 0.0002
+Epoch 15 Batch 200 Accuracy 99.5958. Loss 0.0002
+Epoch 15 Batch 300 Accuracy 99.5380. Loss 0.0003
+------------
+Test : Lay 2, Model GRU, Epoch 15 Accuracy 88.0587
+Epoch time : 2mins 54secs
+============
+Epoch 16 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 16 Batch 100 Accuracy 99.6597. Loss 0.0001
+Epoch 16 Batch 200 Accuracy 99.6346. Loss 0.0002
+Epoch 16 Batch 300 Accuracy 99.6418. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 16 Accuracy 88.3344
+Epoch time : 2mins 55secs
+============
+Epoch 17 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 17 Batch 100 Accuracy 99.6597. Loss 0.0002
+Epoch 17 Batch 200 Accuracy 99.6735. Loss 0.0002
+Epoch 17 Batch 300 Accuracy 99.6470. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 17 Accuracy 87.8732
+Epoch time : 2mins 53secs
+============
+Epoch 18 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 18 Batch 100 Accuracy 99.7989. Loss 0.0001
+Epoch 18 Batch 200 Accuracy 99.4714. Loss 0.0003
+Epoch 18 Batch 300 Accuracy 99.2058. Loss 0.0005
+------------
+Test : Lay 2, Model GRU, Epoch 18 Accuracy 87.6175
+Epoch time : 2mins 54secs
+============
+Epoch 19 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 19 Batch 100 Accuracy 99.2110. Loss 0.0004
+Epoch 19 Batch 200 Accuracy 99.2537. Loss 0.0004
+Epoch 19 Batch 300 Accuracy 99.2629. Loss 0.0004
+------------
+Test : Lay 2, Model GRU, Epoch 19 Accuracy 87.8676
+Epoch time : 2mins 53secs
+============
+Epoch 20 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 20 Batch 100 Accuracy 99.7525. Loss 0.0001
+Epoch 20 Batch 200 Accuracy 99.7435. Loss 0.0002
+Epoch 20 Batch 300 Accuracy 99.7353. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 20 Accuracy 88.1314
+Epoch time : 2mins 53secs
+============
+Epoch 21 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 21 Batch 100 Accuracy 99.7061. Loss 0.0001
+Epoch 21 Batch 200 Accuracy 99.8057. Loss 0.0001
+Epoch 21 Batch 300 Accuracy 99.8079. Loss 0.0001
+------------
+Test : Lay 2, Model GRU, Epoch 21 Accuracy 88.0571
+Epoch time : 2mins 53secs
+============
+Epoch 22 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 22 Batch 100 Accuracy 99.9381. Loss 0.0000
+Epoch 22 Batch 200 Accuracy 99.8989. Loss 0.0001
+Epoch 22 Batch 300 Accuracy 99.8598. Loss 0.0001
+------------
+Test : Lay 2, Model GRU, Epoch 22 Accuracy 87.9859
+Epoch time : 2mins 53secs
+============
+Epoch 23 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 23 Batch 100 Accuracy 99.7525. Loss 0.0001
+Epoch 23 Batch 200 Accuracy 99.7046. Loss 0.0002
+Epoch 23 Batch 300 Accuracy 99.6418. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 23 Accuracy 87.7909
+Epoch time : 2mins 54secs
+============
+Epoch 24 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 24 Batch 100 Accuracy 99.6442. Loss 0.0002
+Epoch 24 Batch 200 Accuracy 99.6424. Loss 0.0002
+Epoch 24 Batch 300 Accuracy 99.6470. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 24 Accuracy 87.7885
+Epoch time : 2mins 53secs
+============
+Epoch 25 Batch 0 Accuracy 100.0000. Loss 0.0000
+Epoch 25 Batch 100 Accuracy 99.6906. Loss 0.0002
+Epoch 25 Batch 200 Accuracy 99.7357. Loss 0.0002
+Epoch 25 Batch 300 Accuracy 99.6574. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 25 Accuracy 87.9412
+Epoch time : 2mins 54secs
+============
+Epoch 26 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 26 Batch 100 Accuracy 99.7061. Loss 0.0002
+Epoch 26 Batch 200 Accuracy 99.6424. Loss 0.0002
+Epoch 26 Batch 300 Accuracy 99.6055. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 26 Accuracy 87.6798
+Epoch time : 2mins 54secs
+============
+Epoch 27 Batch 0 Accuracy 98.4375. Loss 0.0003
+Epoch 27 Batch 100 Accuracy 99.7834. Loss 0.0001
+Epoch 27 Batch 200 Accuracy 99.7124. Loss 0.0002
+Epoch 27 Batch 300 Accuracy 99.6574. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 27 Accuracy 87.7398
+Epoch time : 2mins 54secs
+============
+Epoch 28 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 28 Batch 100 Accuracy 99.7679. Loss 0.0002
+Epoch 28 Batch 200 Accuracy 99.8057. Loss 0.0001
+Epoch 28 Batch 300 Accuracy 99.7872. Loss 0.0001
+------------
+Test : Lay 2, Model GRU, Epoch 28 Accuracy 88.0195
+Epoch time : 2mins 53secs
+============
+Epoch 29 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 29 Batch 100 Accuracy 99.7525. Loss 0.0001
+Epoch 29 Batch 200 Accuracy 99.7435. Loss 0.0001
+Epoch 29 Batch 300 Accuracy 99.7664. Loss 0.0001
+------------
+Test : Lay 2, Model GRU, Epoch 29 Accuracy 87.6455
+Epoch time : 2mins 56secs
+============
+Epoch 30 Batch 0 Accuracy 100.0000. Loss 0.0001
+Epoch 30 Batch 100 Accuracy 99.7679. Loss 0.0001
+Epoch 30 Batch 200 Accuracy 99.6580. Loss 0.0002
+Epoch 30 Batch 300 Accuracy 99.6159. Loss 0.0002
+------------
+Test : Lay 2, Model GRU, Epoch 30 Accuracy 86.6081
+Epoch time : 2mins 54secs
+============
+Program End!

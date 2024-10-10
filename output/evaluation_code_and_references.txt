@@ -1,0 +1,3 @@
+We don't have a evaluation code or something else for this program. Because we do the evaluation when doing the classify in each case we get a model and optimize it at different epoch time. So the accurancy is already output to the screen and that is what we take as evaluation for the model.
+
+The screen output is from project.py and we write it into output.txt.
